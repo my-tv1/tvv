@@ -14,8 +14,8 @@ if response.status_code == 200:
     # 删除包含"CCTV5+"的行
     content = [line for line in content if "CCTV5+" not in line]
     
-    # 保存修改过的文件为ipvt.txt，指定编码为utf-8
-    with open("ipvt.txt", "w", encoding="utf-8") as f:
+    # 保存修改过的文件为iptv.txt，指定编码为utf-8
+    with open("iptv.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(content))
     print("文件已成功保存为iptv.txt")
 else:
