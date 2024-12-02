@@ -41,7 +41,7 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add -A
         if ! git diff --staged --quiet; then
-          git commit -m "Auto-update live files"
+          git commit -m "Auto-update iptv files"
           git push
         fi
 
