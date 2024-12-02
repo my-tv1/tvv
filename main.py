@@ -17,6 +17,6 @@ if response.status_code == 200:
     # 保存修改过的文件为ipvt.txt，指定编码为utf-8
     with open("ipvt.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(content))
-    print("文件已成功保存为ipvt.txt")
+    print("文件已成功保存为iptv.txt")
 else:
     print("无法获取文件，HTTP状态码:", response.status_code)
