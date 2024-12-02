@@ -43,6 +43,8 @@ jobs:
         if ! git diff --staged --quiet; then
           git commit -m "Auto-update iptv files"
           git push
+          git remote add gitee https://17386037503:7acdf84ac237166c3189e661caae1bc8@gitee.com/deng-meiqing/iptv.git
+          git push --force gitee main
         fi
 
     env:
