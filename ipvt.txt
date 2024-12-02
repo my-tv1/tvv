@@ -7104,6 +7104,12 @@ CCTV17,http://58.48.37.158:1111/tsfile/live/0017_1.m3u8$LR•IPV4『线路192』
 深圳卫视,http://123.166.61.70:8003/hls/61/index.m3u8$LR•IPV4『线路56』
 深圳卫视,http://219.159.194.143:8181/tsfile/live/0126_1.m3u8$LR•IPV4『线路57』
 深圳卫视,http://222.241.154.37:9901/tsfile/live/23035_1.m3u8$LR•IPV4『线路58』
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225752/index.m3u8$LR•IPV4『线路59』
+深圳卫视,http://gslbserv.itv.cmvideo.cn:80/5000000004000007410/1.m3u8?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=IPTV$LR•IPV4『线路60』
+深圳卫视,http://123.10.78.208:808/hls/41/index.m3u8$LR•IPV4『线路61』
+深圳卫视,http://58.19.244.92:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路62』
+深圳卫视,http://218.76.32.193:9901/tsfile/live/0127_2.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路63』
+深圳卫视,http://42.48.50.232:9002/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路64』
 深圳卫视,http://118.249.23.16:4022/udp/239.76.246.188:1234$LR•IPV4『线路65』
 深圳卫视,http://118.249.23.16:4022/udp/239.76.253.188:9000$LR•IPV4『线路66』
 深圳卫视,http://171.213.196.134:8088/udp/239.93.0.182:5140$LR•IPV4『线路67』
