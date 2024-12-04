@@ -1,7 +1,7 @@
 import requests
 
 # 获取原始文件内容
-url = "https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.txt"
+url = "https://raw.githubusercontent.com/dengmeiqing/IPTV1/refs/heads/main/live.txt"
 response = requests.get(url)
 
 # 检查是否成功获取文件
