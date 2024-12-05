@@ -9,7 +9,7 @@ if response.status_code == 200:
     content = response.text.splitlines()
     
     # 删除前5行
-    content = content[5:]
+    #content = content[5:]
     
     # 删除包含"CCTV5+"的行
     content = [line for line in content if "CCTV5+" not in line]
