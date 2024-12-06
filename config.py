@@ -21,7 +21,10 @@ source_urls = [
 ]
 
 url_blacklist = [
-   "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8",
+     "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8",
+     "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8",
+     "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8",
+     "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8",
   
 ]
 url_whitelist = [
