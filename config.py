@@ -10,7 +10,7 @@ source_urls = [
    # "https://tv.youdu.fan:666/live/",
    # "http://ww.weidonglong.com/dsj.txt",
     #"http://xhztv.top/zbc.txt",
-    "https://m3u.ibert.me/fmml_ipv6.m3u",
+    "https://raw.githubusercontent.com/dengmeiqing/IPTV1/refs/heads/main/live.txt",
     #"https://ghp.ci/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt",
     #"https://ghp.ci/https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt",
    # "http://home.jundie.top:81/Cat/tv/live.txt",
@@ -21,7 +21,7 @@ source_urls = [
 ]
 
 url_blacklist = [
-  #  "chinamobile.com",
+    "chinamobile.com",
    
 ]
 
