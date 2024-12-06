@@ -21,7 +21,7 @@ source_urls = [
 ]
 
 url_blacklist = [
-    "chinamobile.com",
+    "ottrrs.hl.chinamobile.com",
      " 2409:8087:3c02:21:0:1:0:100a",
   
 ]
