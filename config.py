@@ -21,8 +21,7 @@ source_urls = [
 ]
 
 url_blacklist = [
-    "ottrrs.hl.chinamobile.com",
-    "2409:8087:3c02:21:0:1:0:100a",
+   "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8",
   
 ]
 url_whitelist = [
