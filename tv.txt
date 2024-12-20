@@ -6,7 +6,7 @@
     {
       "name": "直播-主用",
       "type": 0,
-      "url": "https://gitee.com/deng-meiqing/iptv/raw/main/iptv.m3u",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/dengmeiqing/iptv/refs/heads/main/iptv.m3u",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
     },
     {
