@@ -12,7 +12,7 @@
     {
       "name": "直播-备用",
       "type": 0,
-      "url": "https://gcore.jsdelivr.net/gh/yuanzl77/IPTVlatest/live.m3u",
+      "url": "https://gcore.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
     }
   ],
