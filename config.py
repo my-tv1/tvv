@@ -1,7 +1,7 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    #"https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
    # "https://m3u.ibert.me/fmml_ipv6.m3u",
    # "https://ghp.ci/https://raw.githubusercontent.com/dengmeiqing/IPTV1/main/直播/央视频道.txt",
    # "https://live.zhoujie218.top/tv/iptv6.txt",
