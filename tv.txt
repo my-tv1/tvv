@@ -12,7 +12,7 @@
     {
       "name": "直播-备用",
       "type": 0,
-      "url": "http://stnts.eu.org:9000/mnt/tv/tv.txt",
+      "url": "http://stnts.eu.org:9000/mnt/tv/tv.m3u",
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
     }
   ],
