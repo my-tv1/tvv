@@ -30,7 +30,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        wget https://gitee.com/deng-meiqing/iptv/raw/main/config.py
+        wget -O config.py https://gitee.com/deng-meiqing/iptv/raw/main/config.py
         pip install requests
 
     - name: Run Python script
