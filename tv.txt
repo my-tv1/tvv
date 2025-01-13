@@ -16,7 +16,6 @@
       "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
     }
   ],
-{"name":"牛播一（仅新版影视仓/ok影视）","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.iill.top/logo/{name}.png"},
 
 "sites":[
 {"key":"豆豆豆","name":"备用公众号【叨观荐影】","type":3,"api":"csp_DouDou","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
