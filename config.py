@@ -29,7 +29,7 @@ url_blacklist = [
   
 ]
 url_whitelist = [
-    "ottrrs.hl.chinamobile.com",
+    "chinamobile.com",
     "http://[2409:8087:5e08:24::2]",
     "2409:8087:5e00:24::11",
     "2409:8087:5e08:24::17",
