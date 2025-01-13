@@ -1,22 +1,7 @@
-{
-"spider":"./jar/spider.jar;md5;f4a2d92cc932b9afc7367f9d72d3b6e5",
-"wallpaper":"https://深色壁纸.xxooo.cf/",
-"logo":"https://gcore.jsdelivr.net/gh/yuanzl77/zafu@master/LR.jpg",
-  "lives": [
-    {
-      "name": "直播-主用",
-      "type": 0,
-      "url": "http://stnts.eu.org:9000/d/mnt/tv/live.txt",
-      "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
-    },
-    {
-      "name": "直播-备用",
-      "type": 0,
-      "url": "http://stnts.eu.org:9000/d/mnt/tv/result.txt",
-      "epg": "https://epg.v1.mk/json?ch={name}&date={date}"
-    }
-  ],
 
+{
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736586938795/fan.txt;md5;0e3d57414d7927d36066d0e69914f477",
+"wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key":"豆豆豆","name":"备用公众号【叨观荐影】","type":3,"api":"csp_DouDou","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
@@ -85,28 +70,9 @@
 {"key":"fan","name":"导航www.饭太硬.com","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0}
 ],
-
-"parses":[
-        {"name":"LR","type":0,"url":"https://pl.a6club.com/player/?url=","ext":{"flag":["imgo","migu","qq","qiyi","mgtv","bilibili","youku"]}},
-        {"name":"LR2","type":0,"url":"https://www.yemu.xyz/?url="},
-        {"name":"LR3","type":0,"url":"https://jx.xmflv.com/?url="},
-        {"name":"LR4","type":0,"url":"https://cjbfq.netflixgc.com/player/ec.php?code=netflix&if=1&url="},
-        {"name":"请阅读:","type":0,"url":"https://player.8j.pw/player/?url=","ext":{"flag":["imgo","migu","qq","qiyi","mgtv","bilibili","youku"]}},
-        {"name":"yuanzl77.github.io","type":0,"url":"https://jx.aiys.xyz/player/ec.php?code=qw&if=1&url="}
-        ],
-
-"flags":
-["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","XAL","bilibili","tnmb","xigua","m1905","imgo","seven","YuMi-vip","NBY","SLNB"],
-
-"rules":[
-{"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*","zxzj*.","80yy3.*"]}],
-
-"doh":[
-{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
-{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
-{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
-{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
-{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
-
-"ads":["mozai.4gtv.tv","wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]
-}
+"logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+"lives":[
+{"name":"牛播一（仅新版影视仓/ok影视）","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.iill.top/logo/{name}.png"},
+{"name":"live","type":0,"url":"http://stnts.eu.org:9000/d/mnt/tv/live.txt","playerType":1,"logo":"https://ghgo.xyz/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"},
+{"name":"result","type":0,"url":"http://stnts.eu.org:9000/d/mnt/tv/result.txt","playerType":1},
+{"name":"fanmingming","type":0,"url":"https://gitee.com/deng-meiqing/iptv/raw/main/ipv6.m3u","ua":"okhttp/3.15","playerType":2}]}
