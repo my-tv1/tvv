@@ -30,9 +30,9 @@ jobs:
 
     - name: Install dependencies
       run: |
-        wget -O config.py https://gitee.com/deng-meiqing/iptv/raw/main/config.py
-        wget -O ipv6.m3u https://live.fanmingming.com/tv/m3u/ipv6.m3u
-        sed -i '/体育赛事/ {N;d;}' ipv6.m3u
+       # wget -O config.py https://gitee.com/deng-meiqing/iptv/raw/main/config.py
+       # wget -O ipv6.m3u https://live.fanmingming.com/tv/m3u/ipv6.m3u
+      #  sed -i '/体育赛事/ {N;d;}' ipv6.m3u
         pip install requests
 
     - name: Run Python script
